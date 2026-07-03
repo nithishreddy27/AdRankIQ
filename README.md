@@ -257,28 +257,6 @@ Plus scaffolding for distributed training, horizontal serving, a caching layer, 
 - Held-out test sets
 - Online A/B testing for real-world confirmation
 
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a branch (`git checkout -b feature/your-idea`)
-3. Commit your work (`git commit -m 'Add your idea'`)
-4. Push the branch (`git push origin feature/your-idea`)
-5. Open a Pull Request
-
-## 📄 License
-
-Released under the MIT License — see the [LICENSE](LICENSE) file.
-
-## 🙏 Acknowledgments
-
-- Built following modern, production-minded ML practices
-- Tailored to advertising and e-commerce ranking problems
-- Structured with scalability and deployment in mind
-
-## 📞 Support
-
-Questions or ideas? Please open an issue in the repository.
-
 ---
 
 **AdRankIQ — helping ad platforms, marketplaces, and recommendation systems lift engagement and revenue with machine learning.**
